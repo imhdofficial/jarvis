@@ -1,0 +1,94 @@
+.full{
+    height:100%;
+    margin:0;
+    padding: 0;
+    background-image: url(../img/rings.svg);
+    background-position: 50% 8%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fullHeight{
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.topleft{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 19%;
+}
+
+.topright{
+    position: fixed;
+    top: 3%;
+    right: 0;
+    width: 19%;
+}
+
+.pos1{
+    position: fixed;
+    top: 472px;
+    left: 390px;
+    width: 17%;
+}
+
+.pos2{
+    position: fixed;
+    top: 277px;
+    left: 68px;
+    width: 10%;
+}
+
+.pos3{
+    position: fixed;
+    bottom: 25px;
+    left: 12px;
+    width: 4%;
+}
+
+.pos4{
+    position: fixed;
+    top: 275px;
+    right: 202px;
+    width: 10%;
+}
+
+.pos5{
+    position: fixed;
+    bottom: 132px;
+    right: 52px;
+    width: 10%;
+}
+
+.pos6{
+    position: fixed;
+    top: 12px;
+    left: 404px;
+    width: 8%;
+}
+
+.pos7{
+    position: fixed;
+    top: 162px;
+    left: 704px;
+    width: 17%;
+}
+
+.pos8{
+    position: fixed;
+    bottom: 15px;
+    right: -18px;
+    width: 6%;
+}
+
+.comeCenter{
+   width: 100% ;
+}
